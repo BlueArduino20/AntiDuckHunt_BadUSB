@@ -11,4 +11,4 @@ And:
 
 ``size = 25 # Size of array that holds the history of keystroke speeds (Default: 25 Keystokes)``
 
-**ducky_code_2**: same as ducky_code_1 but faster.
+**ducky_code_2** (Recommended): same as ducky_code_1 but faster.
